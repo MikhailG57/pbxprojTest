@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		846D0ADB2238DE6E00722F8A /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846D0ADA2238DE6E00722F8A /* File.swift */; };
+		846D0ADB2238DE6E00722F8A /* Fergergile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846D0ADA2238DE6E00722F8A /* Fergergile.swift */; };
 		846D0ADD2238DE7D00722F8A /* Fileaegawefdewfq.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846D0ADC2238DE7D00722F8A /* Fileaegawefdewfq.swift */; };
 		846D0AE32238DF3500722F8A /* h54h5rgr5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846D0AE22238DF3500722F8A /* h54h5rgr5.swift */; };
 		846D0AE52238E19400722F8A /* tdtrbsr5bdrbst.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846D0AE42238E19400722F8A /* tdtrbsr5bdrbst.swift */; };
@@ -21,7 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		846D0ADA2238DE6E00722F8A /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		846D0ADA2238DE6E00722F8A /* Fergergile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fergergile.swift; sourceTree = "<group>"; };
 		846D0ADC2238DE7D00722F8A /* Fileaegawefdewfq.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fileaegawefdewfq.swift; sourceTree = "<group>"; };
 		846D0AE22238DF3500722F8A /* h54h5rgr5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = h54h5rgr5.swift; sourceTree = "<group>"; };
 		846D0AE42238E19400722F8A /* tdtrbsr5bdrbst.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tdtrbsr5bdrbst.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		846D0AD92238DE6600722F8A /* New Group */ = {
 			isa = PBXGroup;
 			children = (
-				846D0ADA2238DE6E00722F8A /* File.swift */,
+				846D0ADA2238DE6E00722F8A /* Fergergile.swift */,
 				846D0ADC2238DE7D00722F8A /* Fileaegawefdewfq.swift */,
 			);
 			path = "New Group";
@@ -172,7 +172,7 @@
 				846D0ADD2238DE7D00722F8A /* Fileaegawefdewfq.swift in Sources */,
 				84DA8BCB2238DBD200D9A802 /* ViewController.swift in Sources */,
 				846D0AE52238E19400722F8A /* tdtrbsr5bdrbst.swift in Sources */,
-				846D0ADB2238DE6E00722F8A /* File.swift in Sources */,
+				846D0ADB2238DE6E00722F8A /* Fergergile.swift in Sources */,
 				846D0AE82238E1AE00722F8A /* sbr5gdr56jh6tdj6dt.swift in Sources */,
 				84DA8BC92238DBD200D9A802 /* AppDelegate.swift in Sources */,
 				846D0AE32238DF3500722F8A /* h54h5rgr5.swift in Sources */,
