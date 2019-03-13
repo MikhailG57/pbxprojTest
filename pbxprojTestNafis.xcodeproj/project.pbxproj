@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		846D0ADF2238DEEA00722F8A /* twsbrd5rd5b5b.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846D0ADE2238DEEA00722F8A /* twsbrd5rd5b5b.swift */; };
+		846D0AE12238DEFA00722F8A /* sv4rsg5hd6thd6hd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 846D0AE02238DEFA00722F8A /* sv4rsg5hd6thd6hd.swift */; };
 		84DA8BE72238DD5500D9A802 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DA8BE62238DD5500D9A802 /* AppDelegate.swift */; };
 		84DA8BE92238DD5500D9A802 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DA8BE82238DD5500D9A802 /* ViewController.swift */; };
 		84DA8BEC2238DD5500D9A802 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84DA8BEA2238DD5500D9A802 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		846D0ADE2238DEEA00722F8A /* twsbrd5rd5b5b.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = twsbrd5rd5b5b.swift; sourceTree = "<group>"; };
+		846D0AE02238DEFA00722F8A /* sv4rsg5hd6thd6hd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sv4rsg5hd6thd6hd.swift; sourceTree = "<group>"; };
 		84DA8BE32238DD5500D9A802 /* pbxprojTestNafis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pbxprojTestNafis.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84DA8BE62238DD5500D9A802 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84DA8BE82238DD5500D9A802 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,12 +58,14 @@
 		84DA8BE52238DD5500D9A802 /* pbxprojTestNafis */ = {
 			isa = PBXGroup;
 			children = (
+				846D0ADE2238DEEA00722F8A /* twsbrd5rd5b5b.swift */,
 				84DA8BE62238DD5500D9A802 /* AppDelegate.swift */,
 				84DA8BE82238DD5500D9A802 /* ViewController.swift */,
 				84DA8BEA2238DD5500D9A802 /* Main.storyboard */,
 				84DA8BED2238DD5600D9A802 /* Assets.xcassets */,
 				84DA8BEF2238DD5600D9A802 /* LaunchScreen.storyboard */,
 				84DA8BF22238DD5600D9A802 /* Info.plist */,
+				846D0AE02238DEFA00722F8A /* sv4rsg5hd6thd6hd.swift */,
 			);
 			path = pbxprojTestNafis;
 			sourceTree = "<group>";
@@ -135,8 +141,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				846D0ADF2238DEEA00722F8A /* twsbrd5rd5b5b.swift in Sources */,
 				84DA8BE92238DD5500D9A802 /* ViewController.swift in Sources */,
 				84DA8BE72238DD5500D9A802 /* AppDelegate.swift in Sources */,
+				846D0AE12238DEFA00722F8A /* sv4rsg5hd6thd6hd.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
